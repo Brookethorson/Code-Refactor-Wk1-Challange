@@ -17,8 +17,11 @@ This is not an active application but instead a test.
 
 ## Screenshot
  
-![alt text] 
+![alt text](assets/Horiseon-1.PNG)
+![alt text](assets/Horiseon-2.PNG)
+![alt text](assets/Horiseon-3.PNG)
+
 
 ## Link 
 
-View the deployed Github 
+View the deployed Github at https://brookethorson.github.io/Code-Refactor-Wk1-Challange/
