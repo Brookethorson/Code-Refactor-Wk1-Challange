@@ -17,9 +17,9 @@ This is not an active application but instead a test.
 
 ## Screenshot
  
-![alt text](assets/images/Horiseon-1.jpg)
-![alt text](assets/images/Horiseon-2.jpg)
-![alt text](assets/images/Horiseon-3.jpg)
+![alt text](https://github.com/Brookethorson/Code-Refactor-Wk1-Challange/blob/master/assets/images/Horiseon-1.JPG)
+![alt text](https://github.com/Brookethorson/Code-Refactor-Wk1-Challange/blob/master/assets/images/Horiseon-2.JPG)
+![alt text](https://github.com/Brookethorson/Code-Refactor-Wk1-Challange/blob/master/assets/images/Horiseon-3.JPG)
 
 
 ## Link 
