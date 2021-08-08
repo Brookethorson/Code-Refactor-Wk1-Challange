@@ -133,7 +133,7 @@ p {
 }
 /*main content style end*/
 
-/*footer section*/
+/*footer style start*/
 .footer {
     padding: 30px;
     clear: both;
@@ -144,3 +144,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*footer style end*/
