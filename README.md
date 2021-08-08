@@ -17,9 +17,9 @@ This is not an active application but instead a test.
 
 ## Screenshot
  
-![alt text](assets/images/Horiseon-1.png)
-![alt text](assets/images/Horiseon-2.png)
-![alt text](assets/images/Horiseon-3.png)
+![alt text](assets/images/Horiseon-1.jpg)
+![alt text](assets/images/Horiseon-2.jpg)
+![alt text](assets/images/Horiseon-3.jpg)
 
 
 ## Link 
